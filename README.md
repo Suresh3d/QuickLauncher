@@ -1,5 +1,7 @@
 # QuickLauncher
 
+Sometimes we work with same files , folder , applications frequently and we often forget locations of the same. Many times even if we remember, it is boring to navigate through the same hierarchy of folders again and again to get the particular file.If you expect least searching time for files between your urgent works , this app will help you. This will keep track of your required files , folders and links and let them launch quickly in a single click.  
+
 Downloading Quicklauncher zip contains QuickLauncher.exe and required lib files. Launching QuickLauncher.exe will launch following window, 
 
 ![image](https://github.com/Suresh3d/QuickLauncher/assets/14173973/465e1483-b431-4f93-a0ae-a21613c4e219)
